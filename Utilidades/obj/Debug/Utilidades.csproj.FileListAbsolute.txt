@@ -1,0 +1,6 @@
+C:\Users\Pc\source\repos\MarcosMorales\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Pc\source\repos\MarcosMorales\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Pc\source\repos\MarcosMorales\Utilidades\obj\Debug\Utilidades.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\MarcosMorales\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\MarcosMorales\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Pc\source\repos\MarcosMorales\Utilidades\obj\Debug\Utilidades.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pc\source\repos\MarcosMorales\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Pc\source\repos\MarcosMorales\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Pc\source\repos\MarcosMorales\CapaDatos\bin\Debug\Entidades.dll
+C:\Users\Pc\source\repos\MarcosMorales\CapaDatos\bin\Debug\Utilidades.dll
+C:\Users\Pc\source\repos\MarcosMorales\CapaDatos\bin\Debug\Entidades.pdb
+C:\Users\Pc\source\repos\MarcosMorales\CapaDatos\bin\Debug\Utilidades.pdb
+C:\Users\Pc\source\repos\MarcosMorales\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\MarcosMorales\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\MarcosMorales\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Pc\source\repos\MarcosMorales\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Pc\source\repos\MarcosMorales\CapaDatos\obj\Debug\CapaDatos.pdb
